@@ -16,19 +16,6 @@ An offline, Linux-based assistive exam system designed to support students with 
 
 This tool is designed for supported exam and assessment environments where staff prepare questions in advance and students respond verbally.
 
-## Repository contents
-
-erindale-speech-assist/
-├── README.md
-├── USER_GUIDE.md
-├── LICENSE
-├── .gitignore
-├── speech_assist.py
-├── install.sh
-├── build-deb.sh
-├── speech-assist-icon.png
-└── assets/
-
 ## Requirements
 
 - Linux Mint / Ubuntu / Debian-based Linux

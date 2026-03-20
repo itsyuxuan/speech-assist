@@ -18,7 +18,6 @@ This tool is designed for supported exam and assessment environments where staff
 
 ## Repository contents
 
-```text
 erindale-speech-assist/
 ├── README.md
 ├── USER_GUIDE.md

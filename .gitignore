@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Temporary outputs
+*.wav
+*.tmp
+*.log
+
+# Build / packaging
+deb-build/
+*.deb
+
+# Local generated exam outputs
+Exam Answers/
+Desktop/Exam Answers/
+
+# Large runtime / model files (do not commit)
+whisper/
+piper/
+*.bin
+*.onnx
